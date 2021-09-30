@@ -34,5 +34,13 @@ To elaborate:
 - Results_Comparison.m --> bar chart comparisons
 
 % Other files which were used to analyze/visualize the given observed data and/or to compare sample variability to GRAND variability
+- Observed_Inflows_Outflows.m 
+- Identify_Seasons.m --> mean inflow for each month
+- Reservoir_Comparison_DensityPlots.m
+- Storage_Outflow_Plots.m
+- FlowDurationCurve.m
+- FrequencyBands_TargetRelease.m --> not fully developed but suggested as alternative way of systematically identifying releases
+- UsageReservoirComparison.m
+
 
 

@@ -1,5 +1,7 @@
 # Murphy_Dissertation
 
+% All .csv files were stored in a subfolder called res, so the pathname was always set to '.\res\' when loading data
+
 % series of files to simulate a reservoir according to an optimized operating policy
 
 Three operating policy functions developed

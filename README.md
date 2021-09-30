@@ -30,4 +30,8 @@ To elaborate:
 - vis_op_policy --> simulated release vs. storage, visualizes operating policy for each season and shows calibration and dry season releases
 
 % Separate file to visualize the operating policy performances in a grid
+- Grid_Map_PolicyComparison.m
+
+% Other files which were used to analyze/visualize the given observed data and/or to compare sample variability to GRAND variability
+
 
